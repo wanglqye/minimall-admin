@@ -4,6 +4,7 @@
 
 <template>
   <div>
+    <el-button type="danger">Danger</el-button>
     <router-view></router-view>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
