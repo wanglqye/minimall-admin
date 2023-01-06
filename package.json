@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/node": "^18.11.18",
+    "axios": "^1.2.2",
     "element-plus": "^2.2.28",
     "unplugin-auto-import": "^0.12.1",
     "vue": "^3.2.45",
